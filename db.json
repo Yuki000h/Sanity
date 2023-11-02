@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Lili",
+      "lastName": "Bosconavich",
+      "email": "woahh@tip.edu.ph",
+      "dob": "1997-12-24T16:00:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "TIP",
+      "experience": 11,
+      "package": 100000000000000,
+      "id": 3
+    },
+    {
+      "firstName": "Adrian",
+      "lastName": "Aguda",
+      "email": "ad@gmail.com",
+      "dob": "",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Microsoft",
+      "experience": 2,
+      "package": 100,
+      "id": 4
+    }
+  ]
+}
